@@ -103,3 +103,13 @@ should also regularly review and apply any available patches or associated secur
 advisories for dependencies used within your application.
 
 Best Practices: https://docs.aws.amazon.com/codestar/latest/userguide/best-practices.html?icmpid=docs_acs_rm_sec
+
+
+_____________________________________________________________________________________________________
+
+https://appdividend.com/2018/08/22/express-post-request-example-tutorial/
+https://expressjs.com/en/guide/database-integration.html#postgresql
+https://www.codementor.io/olawalealadeusi896/building-a-simple-api-with-nodejs-expressjs-and-postgresql-db-masuu56t7
+https://www.alibabacloud.com/blog/building-a-restful-api-with-express-postgresql-and-node-using-es6_594137
+https://www.robinwieruch.de/postgresql-express-node-rest-api/
+
